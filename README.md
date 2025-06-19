@@ -16,7 +16,7 @@ The MSQE dataset is available at
 Preparing the Code
 
     git clone https://github.com/AG-WDS/MSQE.git
-    cd MSQE/YOLO-Mamba
+    cd MSQE/YOLO11-Mamba
 
 Install the mamba dependencies
 
