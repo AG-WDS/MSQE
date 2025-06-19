@@ -32,3 +32,6 @@ pytorch-cuda==11.3
 torch==1.12.1
 ```
 
+## Acknowledgement
+
+This repo is modified from open source real-time object detection codebase [Ultralytics](https://github.com/ultralytics/ultralytics)
