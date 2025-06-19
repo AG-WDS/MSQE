@@ -13,18 +13,18 @@ The MSQE dataset is available at
 
 # Setup
 
-### Preparing the Code and Environment
+Preparing the Code
 
     git clone https://github.com/AG-WDS/MSQE.git
     cd MSQE/YOLO-Mamba
 
- pip install the mamba dependencies
+Install the mamba dependencies
 
     pip install ultralytics
     pip install causal-conv1d>=1.1.2
     pip install mamba-ssm>=1.1.2
 
-### Requirement
+Requirement
 
 ```
 python>=3.8.0 
