@@ -2,7 +2,7 @@
 
 Maize Seedling Quality Evaluation with Oriented YOLO11-Mamba and UAV-RGB Images
 
-![image-20250619144055795](https://typora119.oss-cn-shenzhen.aliyuncs.com/image-20250619144055795.png)
+![Fig.1](https://typora119.oss-cn-shenzhen.aliyuncs.com/Fig.1.svg)
 
 # Dataset
 
