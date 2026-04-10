@@ -6,7 +6,7 @@
 
 # Dataset
 
-Note: <font color="red">The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.</font>
+-The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions
 
 The MSQE dataset is available at
 
