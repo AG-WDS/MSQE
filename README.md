@@ -6,6 +6,8 @@
 
 # Dataset
 
+Note: <font color="red">The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.</font>
+
 The MSQE dataset is available at
 
  `https://drive.google.com/file/d/1nPxlaaaNF4921lwNrGjBLbmk-mnYYoRL/view?usp=drive_link`
