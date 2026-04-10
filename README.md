@@ -4,15 +4,14 @@
 
 ![Fig.1](https://typora119.oss-cn-shenzhen.aliyuncs.com/Fig.1.svg)
 
-# Dataset Usage
+# ⚠ DATA and CODE Usage
 > [!IMPORTANT]
-> **Restrictions:** The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.
+> **Restrictions:** The shared dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.
 
 # Dataset
 The MSQE dataset is available at
 
  `https://drive.google.com/file/d/1nPxlaaaNF4921lwNrGjBLbmk-mnYYoRL/view?usp=drive_link`
-
 
 # Setup
 
